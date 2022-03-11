@@ -1,0 +1,131 @@
+body{
+	font-family: sans-serif;
+    font-size: 13px;
+}
+
+.main-container{
+	display: flex;
+	height: 1100px;
+	
+	
+
+}
+/*
+@page main-container {
+size:8.27in 11.69in;
+
+ margin:.0in .0in .0in .0in;
+  mso-header-margin:.0in;
+   mso-footer-margin:0in;
+    mso-paper-source:0;
+     } 
+     div.main-container {
+      page:main-container; }
+
+*/
+@page main-container{
+    size: 21cm 29.7cm;
+    margin: 0mm 0mm 0mm 0mm;
+     /* change the margins as you want them to be. */
+}
+
+aside{
+	background-color: #a1b1c536;
+	/*background-color: #D8E2E7;*/
+	width: 30%;
+padding: 20px;
+	text-align: left;
+	margin-right: 30px;
+height: auto;
+	
+}
+.main{
+	margin-left: 30px;
+	padding-left: 30px;
+	padding-right: 30px;
+	margin-right: 30px;
+}
+
+.lang{
+	text-align:right;
+	font-size:17px;
+	/*color:rgb(33, 58, 90);*/
+}
+
+aside>section{
+	
+	padding-bottom: 20px;
+}
+
+	
+h1,h2,h3,h4,.title-left,#name{
+
+	/*color: #3B7087;*/
+	color: #78819ff2;
+}
+#foto-box{
+	margin-right: 0;
+	text-align: center;
+	/*background-color: #78819ff2;*/
+	
+}
+.foto{
+	border-radius: 150px;
+
+}
+
+	.title{
+		/*color: whitesmoke;*/
+	}
+
+
+.left-col{
+	text-align: left;
+}
+
+	hr {
+  height: 5px;
+  width: 70px;
+  margin-left: 0%;
+  margin-right: 80%;
+  background-color:#78819ff2;
+  border-radius: 160px;
+}
+
+.edu{
+	text-align: left;
+}
+.title{
+	/*height: 215px;*/
+	/*background-color: #ECF3FA;*/
+	text-align: left;
+	/*margin-top: 10px;*/
+   /* padding: 10px;*/
+}
+
+.borde-nombre{
+	margin-top: 80px;
+font-size: 26px;
+}
+.icon{
+
+}
+.contacto1{
+	    padding-left: 5px;
+}
+.date,.city{
+	color: grey;
+}
+.black{
+	font-weight: ;
+}
+article{
+	padding-top: 20px;
+	
+}
+.empresa{
+	font-size: 14px;
+}
+li{
+	padding-bottom: 3px;
+}
